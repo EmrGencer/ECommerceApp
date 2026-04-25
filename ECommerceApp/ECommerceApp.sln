@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceApp.Core", "ECommerceApp.Core\ECommerceApp.Core.csproj", "{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceApp.Tests", "ECommerceApp.Tests\ECommerceApp.Tests.csproj", "{1375AA35-A176-48D0-A2D7-D347C9087112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Debug|x64.Build.0 = Debug|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Debug|x86.Build.0 = Debug|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Release|x64.ActiveCfg = Release|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Release|x64.Build.0 = Release|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Release|x86.ActiveCfg = Release|Any CPU
+		{C69ECF3C-A6E2-4234-900B-45D4A2CC8213}.Release|x86.Build.0 = Release|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Debug|x64.Build.0 = Debug|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Debug|x86.Build.0 = Debug|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Release|x64.ActiveCfg = Release|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Release|x64.Build.0 = Release|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Release|x86.ActiveCfg = Release|Any CPU
+		{1375AA35-A176-48D0-A2D7-D347C9087112}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
